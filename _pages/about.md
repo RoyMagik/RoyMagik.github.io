@@ -42,8 +42,8 @@ I am a Master's student at Xi'an University of Electronic Science and Technology
 [**Project**]([MISSING: ProjectLink])
 
 - Improved and optimized algorithms for object recognition in complex scenes.
-  </div>
-  </div>
+</div>
+</div>
 
 # Honors and Awards
 
