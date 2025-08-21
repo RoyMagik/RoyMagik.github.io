@@ -12,95 +12,128 @@ redirect_from:
 
 # About Me
 
-I am a Master's student at Xi'an University of Electronic Science and Technology, focusing on short video generation. Previously, I completed my Bachelor's degree in Computer Science and Technology at Zhejiang University of Technology, where I was part of the Jianxing Honors College (top 1% innovation experimental class). My research interests lie in deep learning and computer vision, with a particular focus on LLMs and AIGC large models. I have practical experience and a deep understanding of Stable Diffusion, including LoRA and ControlNet models. I have led multiple team projects, demonstrating strong communication and teamwork skills. My achievements include one Chinese journal publication, one Chinese conference paper, one JCR Q2 paper under review, one patent, and leading one national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
+I am a Master's student at **Xidian University**, specializing in short video generation. Previously, I earned my Bachelor's degree in Computer Science and Technology from **Zhejiang University of Technology**, where I was part of the top 1% innovation experimental class with a GPA of 3.92/5.00. My research focuses on deep learning and computer vision, with a particular interest in LLMs and AIGC large models. I have a deep understanding of Stable Diffusion, including LoRA and ControlNet models, and have practical experience in their application. I have successfully led multiple team projects, demonstrating strong communication and teamwork skills. My academic contributions include one Chinese journal publication, one Chinese conference paper, one JCR Q2 journal paper under review, one patent, and leadership of one national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
 
 # Education
 
 
 - **[MISSING: start date] – Present**
-  Master, [MISSING: major], Xi'an University of Electronic Science and Technology, [MISSING: city]
+  Master, [MISSING: major], Xidian University, [MISSING: city]
 - **[MISSING: start date] – [MISSING: end date]**
   Bachelor, Computer Science and Technology, Zhejiang University of Technology, [MISSING: city]
 
-# Research Experience
+# Internship
 
 
-- **2022.05 – 2023.06**
-  National Innovation and Entrepreneurship Training Program for College Students, Leader
-- Led a national-level project on mechanical arm calibration using ultrasound micro-arrays and deep learning.
-
-- Organized experiments, data analysis, and report writing.
-
-- **2023.02 – 2023.07**
-  Paper Accepted, "3Deus: Object Recognition Method in Complex Scenes Based on Point Cloud Detection"
-- Improved and optimized algorithms for object recognition in complex scenes.
-
-- Developed a RANSAC algorithm improved by serial clustering for better interference removal.
-
-- **2023.03 – 2023.06**
-  Patent Published, "A Mechanical Arm Calibration Method Based on Deep Learning and Ultrasonic Micro-array"
-- Detailed hardware design and neural network architecture for the calibration system.
-
-- Described system components including signal generator, SW-M221 MOSFET module, LM386 audio amplifier, AD7606 chip, and Raspberry Pi.
-
-- **2024.06 – Present**
-  Paper Under Review, "Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration"
-- Proposed combining U-Net++ with the MUSIC algorithm for DOA problems.
-
-- Used deep learning to extract and restore main path signals from downsampled data with multipath interference and noise, then applied MUSIC for sound source localization.
-
-- **[MISSING: start date] – Present**
-  Short Video Generation Research
-- Actively researching current short video generation models and publishing articles on Zhihu.
+- **2023.11 – 2024.04**
+  NLP Algorithm Intern, Westlake Xinchen Technology Co., Ltd., [MISSING: city]
 
 # Publication
 
 <div class='paper-box'>
 <div class='paper-box-image'>
 <div>
-<div class="badge">HHME 2023</div>
-<img src='[MISSING: image URL]' alt="3Deus: Object Recognition Method in Complex Scenes Based on Point Cloud Detection" width="100%">
+<div class="badge">[HHME 2023]</div>
+<img src='[MISSING: image URL]' alt="3Deus：基于点云探测的复杂场景物品识别方法" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
-3Deus: Object Recognition Method in Complex Scenes Based on Point Cloud Detection
-**Hanmo Chen**
+3Deus：基于点云探测的复杂场景物品识别方法
+**[MISSING: author list]**
 [**Project**]([MISSING: project link])
 
-- An improved RANSAC algorithm for enhanced interference removal in complex scenes.
+- Improved and optimized algorithms for complex scene object recognition based on point cloud detection.
+</div>
+</div>
+  <div class='paper-box'>
+  <div class='paper-box-image'>
+<div>
+  <div class="badge">[Under Review]</div>
+  <img src='[MISSING: image URL]' alt="Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration" width="100%">
+</div>
+</div>
+  <div class='paper-box-text' markdown="1">
+  Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration
+  **[MISSING: author list]**
+  [**Project**]([MISSING: project link])
+- Proposed a method combining U-Net++ with the MUSIC algorithm to extract and restore main path signals from downsampled signals containing multipath interference and noise for sound source localization.
 </div>
 </div>
 
 # Honors and Awards
 
 
-- **[MISSING: year].05** Second Prize, School Mathematical Modeling Competition, [MISSING: role]
+- **[MISSING: year].05** Second Prize, School Mathematical Modeling Competition, [MISSING: organization], [MISSING: role]
 
-- **2022.11** First Prize, 2022 China University Big Data Challenge, [MISSING: role]
+- **2022.11** First Prize, 2022 China University Big Data Challenge, [MISSING: organization], [MISSING: role]
 
-- **2023.01** Second Prize (National), 2022 China Robot Competition - Advanced Vision - 3D Recognition, [MISSING: role]
+- **2023.01** Second Prize (National), 2022 China Robot Competition - Robot Advanced Vision Competition - 3D Recognition Project, [MISSING: organization], [MISSING: role]
 
-- **[MISSING: year].00** Second Prize Scholarship for Academic Excellence, Jianxing College, [MISSING: role]
+- **[MISSING: year].05** Second-class Scholarship for Excellent Students, Jianxing College, [MISSING: role]
 
-- **[MISSING: year].00** Second Prize Scholarship for Outstanding Student, [MISSING: role]
+- **[MISSING: year].05** Second-class Scholarship for Study, Jianxing College, [MISSING: role]
+
+- **2020** Second Prize, Mechanical Engineering College "Chuying Cup" Chinese Speech Contest, [MISSING: organization], [MISSING: role]
 
 # Other
 
 
-- **2023.11 – 2024.04**
-  NLP Algorithm Intern, Xihuxinchen Technology Co., Ltd., [MISSING: city]
-- Responsible for algorithm research and development in style consistency, style transfer, and character consistency.
+- **2022.05 – 2023.06**
+  Project Leader, National Innovation and Entrepreneurship Program: "Mechanical Arm Calibration System Based on Deep Learning and Ultrasonic Microarray", [MISSING: city]
+- Led experiments, data analysis, and report writing for a national-level project focusing on robotic arm calibration using ultrasonic microarrays and deep learning.
 
-- **2020.00**
-  Second Prize, Chinese Speech Contest, School of Mechanical Engineering, [MISSING: role]
-- CET-4: 568
+- **2023.03 – 2023.06**
+  Patent Applicant, Patent: "A Mechanical Arm Calibration Method Based on Deep Learning and Ultrasonic Microarray", [MISSING: city]
+- Detailed hardware circuit design and neural network architecture for the innovation project, resulting in a publicly disclosed patent.
 
-- CET-6: 515
+- **[MISSING: start date] – Present**
+  Researcher, Short Video Generation Research, [MISSING: city]
+- Conduct extensive literature review and publish articles on Zhihu regarding current short video generation models.
 
-- CET-4 Oral: B+
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, University Innovation and Entrepreneurship Center, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Key Member, University Astronomical Association, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, Jianxing College Party Member Home, [MISSING: city]
+- Deep Learning
 
-- Innovation and Entrepreneurship Center Officer, University
+- Computer Vision
 
-- Main Coordinator, University Astronomical Association
+- LLM
 
-- Member, Jianxing College Party Member Home
+- AIGC
+
+- Stable Diffusion (LoRA, ControlNet)
+
+- Python
+
+- C++
+
+- MATLAB
+
+- OpenCV
+
+- PyTorch
+
+- TensorFlow
+
+- RANSAC Algorithm
+
+- Multithreading
+
+- 3D Point Cloud Processing
+
+- Image Information Hiding
+
+- ResNeXt Network
+
+- Digital Image Processing
+
+- Team Leadership
+
+- Communication
+
+- Problem Solving
+
+- Academic Writing

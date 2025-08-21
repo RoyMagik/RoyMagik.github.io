@@ -20,10 +20,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "陈翰墨"
+  name             : "Hanmo Chen"
   avatar           : "images/android-chrome-512x512.png"
   location         : "Xi'an, China"
-  employer         : "西湖心辰科技有限公司"
+  employer         : "Xidian University"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "1821698873@qq.com"
