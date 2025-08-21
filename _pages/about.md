@@ -8,51 +8,94 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Master's student at Xi'an University of Electronic Science and Technology, with a research focus on short video generation. I hold a Bachelor's degree in Computer Science and Technology from Zhejiang University of Technology, where I graduated in the top 1% of my class. My research background includes deep learning and computer vision, with in-depth experience in LLM and AIGC large models, particularly Stable Diffusion, Lora, and ControlNet. I have led multiple projects, demonstrating strong communication and teamwork skills. My academic contributions include one Chinese journal publication, one Chinese conference paper, one JCR Q2 journal paper under review, and one patent. I also led a national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
+
+# Education
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **[MISSING: start date] – Present**
+  Master, [MISSING: major], Xi'an University of Electronic Science and Technology, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Bachelor, Computer Science and Technology, Zhejiang University of Technology, [MISSING: city]
 
-# 📝 Publications 
+# Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+- **2024.06 – Present**
+  Researcher, [MISSING: institution], [MISSING: city]
+- **2023.02 – 2023.07**
+  Researcher, [MISSING: institution], [MISSING: city]
+- **2022.05 – 2023.06**
+  Project Leader, [MISSING: institution], [MISSING: city]
+
+# Publication
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">[MISSING: Venue Year]</div>
+<img src='[MISSING: Image URL]' alt="3Deus: Point Cloud-based Object Recognition Method in Complex Scenes" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
+3Deus: Point Cloud-based Object Recognition Method in Complex Scenes([MISSING: Link])
+**[MISSING: Author1]**, [MISSING: Author2], [MISSING: Author3]
+[**Project**]([MISSING: ProjectLink])
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Improved and optimized algorithms for object recognition in complex scenes.
+  </div>
+  </div>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# Honors and Awards
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **[MISSING: YYYY.MM]** Second Prize, College Mathematics Modeling Competition, [MISSING: Organization], [MISSING: Role]
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2022.11** First Prize, China University Big Data Challenge, [MISSING: Organization], [MISSING: Role]
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2023.01** Second Prize (National), China Robot Competition - Advanced Vision for Robots - 3D Recognition, [MISSING: Organization], [MISSING: Role]
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **[MISSING: YYYY.MM]** Second Prize, Jianxing College Second-class Scholarship, [MISSING: Organization], [MISSING: Role]
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **[MISSING: YYYY.MM]** Second Prize, Excellent Student Scholarship, [MISSING: Organization], [MISSING: Role]
+
+- **2020** Second Prize, College Chinese Speech Contest, School of Mechanical Engineering, [MISSING: Role]
+
+# Other
+
+
+- **2023.11 – 2024.04**
+  NLP Algorithm Intern, Xihu Xinchen Technology Co., Ltd., [MISSING: city]
+- Researched and developed algorithms for style consistency.
+
+- Researched and developed algorithms for style transfer.
+
+- Researched and developed algorithms for character consistency.
+
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, University Innovation and Entrepreneurship Center, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Key Leader, University Astronomical Association, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Cadre, Jianxing College Party Member Home, [MISSING: city]
+- Deep Learning
+
+- Computer Vision
+
+- Large Language Models (LLM)
+
+- AIGC
+
+- Stable Diffusion
+
+- Lora
+
+- ControlNet
+
+- Teamwork
+
+- Communication
