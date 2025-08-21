@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "陈翰墨"
-description              : "西安电子科技大学硕士生，研究方向为短视频生成、深度学习与计算机视觉。"
+title                    : "Hanmo Chen"
+description              : "Master student at Xidian University, focusing on short video generation, deep learning, and computer vision."
 repository               : "yourgithubusername/your-repo-name"
 
 # google analytics
@@ -51,7 +51,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : "https://www.zhihu.com/people/chen-han-mo-92-82/posts"
   xing             :
   youtube          :
   wikipedia        :
