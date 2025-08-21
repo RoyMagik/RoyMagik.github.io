@@ -34,14 +34,9 @@ I am a Master's student at Xi'an University of Electronic Science and Technology
 
 # Publication
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">[MISSING: Venue Year]</div>
-<img src='[MISSING: Image URL]' alt="3Deus: Point Cloud-based Object Recognition Method in Complex Scenes" width="100%">
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[MISSING: Venue Year]</div><img src='[MISSING: Image URL]' alt="3Deus: Point Cloud-based Object Recognition Method in Complex Scenes" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 3Deus: Point Cloud-based Object Recognition Method in Complex Scenes([MISSING: Link])
 **[MISSING: Author1]**, [MISSING: Author2], [MISSING: Author3]
 [**Project**]([MISSING: ProjectLink])
