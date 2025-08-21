@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-I am a Master's student at Xi'an University of Electronic Science and Technology, with a research focus on short video generation. I hold a Bachelor's degree in Computer Science and Technology from Zhejiang University of Technology, where I graduated in the top 1% of my class. My research background includes deep learning and computer vision, with in-depth experience in LLM and AIGC large models, particularly Stable Diffusion, Lora, and ControlNet. I have led multiple projects, demonstrating strong communication and teamwork skills. My academic contributions include one Chinese journal publication, one Chinese conference paper, one JCR Q2 journal paper under review, and one patent. I also led a national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
+I am a Master's student at Xi'an University of Electronic Science and Technology, focusing on short video generation. Previously, I earned my Bachelor's degree in Computer Science and Technology from Zhejiang University of Technology, ranking 5th out of 131 students with a GPA of 3.92/5.00. My research primarily involves deep learning and computer vision, with a particular interest in LLMs and AIGC large models. I have hands-on experience and a deep understanding of Stable Diffusion, including LoRA and ControlNet. I have led multiple team projects, demonstrating strong communication and teamwork skills. My academic contributions include one Chinese journal paper, one Chinese conference paper, one JCR Q2 journal paper under review, and one patent. I also led a successfully concluded national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
 
 # Education
 
@@ -22,75 +22,98 @@ I am a Master's student at Xi'an University of Electronic Science and Technology
 - **[MISSING: start date] – [MISSING: end date]**
   Bachelor, Computer Science and Technology, Zhejiang University of Technology, [MISSING: city]
 
-# Research Experience
+# Internship
 
 
-- **2024.06 – Present**
-  Researcher, [MISSING: institution], [MISSING: city]
-- **2023.02 – 2023.07**
-  Researcher, [MISSING: institution], [MISSING: city]
-- **2022.05 – 2023.06**
-  Project Leader, [MISSING: institution], [MISSING: city]
+- **2023.11 – 2024.04**
+  NLP Algorithm Intern, Xihuxinchen Technology Co., Ltd., [MISSING: city]
 
 # Publication
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">[MISSING: Venue Year]</div><img src='[MISSING: Image URL]' alt="3Deus: Point Cloud-based Object Recognition Method in Complex Scenes" width="100%"></div></div>
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div>
+<div class="badge">[MISSING: Venue Year]</div>
+<img src='[MISSING: Image URL]' alt="3Deus：基于点云探测的复杂场景物品识别方法" width="100%">
+</div>
+</div>
 <div class='paper-box-text' markdown="1">
-
-3Deus: Point Cloud-based Object Recognition Method in Complex Scenes([MISSING: Link])
+3Deus：基于点云探测的复杂场景物品识别方法([MISSING: Link])
 **[MISSING: Author1]**, [MISSING: Author2], [MISSING: Author3]
 [**Project**]([MISSING: ProjectLink])
 
-- Improved and optimized algorithms for object recognition in complex scenes.
+- Improved RANSAC algorithm with serial clustering for enhanced interference removal in complex scenes.
+</div>
+</div>
+  <div class='paper-box'>
+  <div class='paper-box-image'>
+<div>
+  <div class="badge">[MISSING: Venue Year]</div>
+  <img src='[MISSING: Image URL]' alt="Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration" width="100%">
+</div>
+</div>
+  <div class='paper-box-text' markdown="1">
+  Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration([MISSING: Link])
+  **[MISSING: Author1]**, [MISSING: Author2], [MISSING: Author3]
+  [**Project**]([MISSING: ProjectLink])
+- Combines U-Net++ with the MUSIC algorithm to extract and restore main path signals from downsampled, noisy, and multipath-interfered signals for sound source localization.
 </div>
 </div>
 
 # Honors and Awards
 
 
-- **[MISSING: YYYY.MM]** Second Prize, College Mathematics Modeling Competition, [MISSING: Organization], [MISSING: Role]
+- **[MISSING: YYYY.MM]** Second Prize, School Mathematical Modeling Competition, [MISSING: Role]
 
-- **2022.11** First Prize, China University Big Data Challenge, [MISSING: Organization], [MISSING: Role]
+- **2022.11** First Prize, China University Big Data Challenge, [MISSING: Role]
 
-- **2023.01** Second Prize (National), China Robot Competition - Advanced Vision for Robots - 3D Recognition, [MISSING: Organization], [MISSING: Role]
+- **2023.01** Second Prize (National), China Robot Competition Advanced Vision Race - 3D Recognition Project, [MISSING: Role]
 
-- **[MISSING: YYYY.MM]** Second Prize, Jianxing College Second-class Scholarship, [MISSING: Organization], [MISSING: Role]
+- **[MISSING: YYYY.MM]** Second Prize Scholarship for Jianxing College Study, [MISSING: Role]
 
-- **[MISSING: YYYY.MM]** Second Prize, Excellent Student Scholarship, [MISSING: Organization], [MISSING: Role]
+- **[MISSING: YYYY.MM]** Second Prize Scholarship for Outstanding Students, [MISSING: Role]
 
-- **2020** Second Prize, College Chinese Speech Contest, School of Mechanical Engineering, [MISSING: Role]
+- **2020** Second Prize, Mechanical Engineering College Eagle Cup Chinese Speech Contest, [MISSING: Role]
 
 # Other
 
 
-- **2023.11 – 2024.04**
-  NLP Algorithm Intern, Xihu Xinchen Technology Co., Ltd., [MISSING: city]
-- Researched and developed algorithms for style consistency.
+- **2022.05 – 2023.06**
+  Project Leader, National Innovation and Entrepreneurship Training Program for College Students, [MISSING: city]
+- Proposed a method for mechanical arm calibration using ultrasound micro-arrays combined with deep learning for industrial automation.
 
-- Researched and developed algorithms for style transfer.
+- Organized experimental operations, data analysis, and report writing.
 
-- Researched and developed algorithms for character consistency.
+- **2023.03 – 2023.06**
+  Patent Holder, A Mechanical Arm Calibration Method Based on Deep Learning and Ultrasonic Microarray, [MISSING: city]
+- Detailed hardware circuit design and neural network architecture for the mechanical arm calibration system.
 
-- **[MISSING: start date] – [MISSING: end date]**
-  Cadre, University Innovation and Entrepreneurship Center, [MISSING: city]
-- **[MISSING: start date] – [MISSING: end date]**
-  Key Leader, University Astronomical Association, [MISSING: city]
-- **[MISSING: start date] – [MISSING: end date]**
-  Cadre, Jianxing College Party Member Home, [MISSING: city]
+- **[MISSING: start date] – Present**
+  Researcher, Short Video Generation, [MISSING: city]
+- Conducted extensive literature review on current short video generation models.
+
+- Published articles on Zhihu (https://www.zhihu.com/people/chen-han-mo-92-82/posts).
+
+- CET-4: 568
+
+- CET-6: 515
+
+- CET-4 Oral: B+
+
 - Deep Learning
 
 - Computer Vision
 
-- Large Language Models (LLM)
+- LLM
 
 - AIGC
 
 - Stable Diffusion
 
-- Lora
+- LoRA
 
 - ControlNet
 
-- Teamwork
-
 - Communication
+
+- Teamwork
