@@ -7,7 +7,6 @@ redirect_from:
 title: ""
 ---
 
-<span class='anchor' id='about-me'></span>
 
 # About Me
 
