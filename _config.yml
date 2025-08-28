@@ -7,8 +7,8 @@ locale                   : "en-US"
 title                    : "Hanmo Chen / Personal Academic Homepage"
 title_separator          : "-"
 name                     : &name "Hanmo Chen"
-description              : &description "Personal academic homepage of Hanmo Chen, focusing on deep learning, computer vision, and AIGC."
-url                      :  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Personal academic homepage of Hanmo Chen. Focused on deep learning, computer vision, LLM, and AIGC large models, with practical experience in Stable Diffusion, Lora, and ControlNet. Experienced in team leadership and research, with publications in Chinese journals and conferences, a patent, and national-level project leadership."
+url                      :
 baseurl                  : ""
 repository               : ""
 teaser                   :
@@ -77,9 +77,9 @@ analytics:
 author:
   name             : "Hanmo Chen"
   avatar           : "profile.png"
-  bio              : "Master's student at Xidian University, with research experience in deep learning, computer vision, LLM, and AIGC. Skilled in Stable Diffusion, Lora, and ControlNet. Experienced in team leadership and project management. Currently focusing on short video generation."
+  bio              : "Focused on deep learning, computer vision, LLM, and AIGC large models, with practical experience in Stable Diffusion, Lora, and ControlNet. Experienced in team leadership and research, with publications in Chinese journals and conferences, a patent, and national-level project leadership."
   location         : "China"
-  employer         : "Xidian University"
+  employer         : "Xi'an University of Electronic Science and Technology"
   email            : "1821698873@qq.com"
   github           :
   linkedin         :

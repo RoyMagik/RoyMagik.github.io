@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 
-- **[MISSING: Date]** Second Prize, Jianxing College Second-class Scholarship, Recipient
+- **[MISSING: year].11** First Prize, China University Big Data Challenge, [MISSING: role]
 
-- **[MISSING: Date]** Second Prize, Excellent Student Scholarship, Recipient
+- **[MISSING: year].05** Second Prize, University Mathematical Modeling Competition, [MISSING: role]
 
-- **2023.01** Second Prize, China Robot Competition Advanced Vision Competition - 3D Recognition Project, Participant
+- **[MISSING: year].01** Second Prize, China Robot Competition - Advanced Vision for Robots - 3D Recognition Project, [MISSING: role]
 
-- **2022.11** First Prize, 2022 China University Big Data Challenge, Participant
+- **2020** Second Prize, Mechanical Engineering College "Chuying Cup" Chinese Speech Contest, [MISSING: role]
 
-- **2022.05** Second Prize, 2022 University Mathematical Modeling Competition, Participant
+- **[MISSING: year]** Second-class Scholarship, Jianxing College, Recipient
 
-- **2020** Second Prize, Mechanical Engineering College Eagle Cup Chinese Speech Contest, Participant
+- **[MISSING: year]** Second-class Scholarship, Outstanding Student, Recipient
