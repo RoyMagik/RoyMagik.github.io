@@ -1,24 +1,27 @@
 ---
 permalink: /
+title: ""
+excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
-title: ""
 ---
 
-# About Me
-I am a master's student at the **Institute of Technology**, majoring in Multimodal Systems. Previously, I received my Bachelor of Engineering degree in Computer Science from **FarEast Polytechnic University**. My research focuses on **computer vision, multimodal learning, and generative AI systems**. I have authored several works on point cloud recognition, sound source localization under noisy environments, and diffusion-based video generation. I also led national innovation projects and co-founded collaborative platforms for student research. I am open to various forms of academic collaboration and welcome contact via email: linanyudemo@fakemail.com
+<span class='anchor' id='about-me'></span>
 
+# About Me
+
+I am a Master's student at **Xidian University**, focusing on short video generation. Previously, I completed my Bachelor's degree in Computer Science and Technology at **Zhejiang University of Technology**, where I was part of the top 1% innovation experimental class. My research primarily revolves around **deep learning, computer vision, and AIGC (Artificial Intelligence Generated Content)**, with a particular emphasis on large models like LLM and Stable Diffusion, including Lora and ControlNet. I have hands-on experience in implementing and understanding these models at a fundamental level. My achievements include authoring publications in Chinese journals and conferences, having a JCR Q2 paper under review, and holding a patent. I also led a national-level innovation project. I am open to various forms of academic collaboration and welcome contact via email: 1821698873@qq.com
 
 # Education
-- **2023.09 – Present**  
-  Master, Multimodal Systems, Morningstar Institute of Technology, StarCity  
 
-- **2019.09 – 2023.06**  
-  Bachelor, Computer Science and Engineering, FarEast Polytechnic University, StarCity  
-
+- **[MISSING: start date] – Present**
+  Master, [MISSING: major], Xidian University, [MISSING: city]
+- **[MISSING: start date] – [MISSING: end date]**
+  Bachelor, Computer Science and Technology, Zhejiang University of Technology, [MISSING: city]
 
 # Internship
-- **2023.11 – 2024.04**  
-  NLP Research Intern, Nebula AI Lab, StarCity  
+
+- **2023.11 – 2024.04**
+  NLP Algorithm Intern, Westlake Xinchen Technology Co., Ltd., [MISSING: city]

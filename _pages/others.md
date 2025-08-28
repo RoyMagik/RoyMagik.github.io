@@ -5,12 +5,23 @@ permalink: /others/
 author_profile: true
 ---
 
-## Skills
-- Programming: Python, C++, Java  
-- Frameworks: PyTorch, TensorFlow, Git, LaTeX  
-- Languages: English (CET-6 522), Chinese (Native)  
 
-## Services
-- Reviewer: IEEE Transactions on Multimedia (TMM), ACM Multimedia (ACM MM), ICASSP  
-- Teaching Assistant: Machine Learning (Undergraduate), Deep Learning (Graduate)  
-- Student Mentor: Guided undergraduate students on research projects in computer vision and multimodal learning  
+
+### Professional Service
+
+
+- **[MISSING: start date] – [MISSING: end date]** Officer, University Innovation and Entrepreneurship Center, [MISSING: city]
+
+- **[MISSING: start date] – [MISSING: end date]** Main Leader, University Astronomical Association, [MISSING: city]
+
+- **[MISSING: start date] – [MISSING: end date]** Officer, Jianxing College Party Member Home, [MISSING: city]
+
+### Skills
+
+
+- Proficient in Python, PyTorch, Transformer, and deep learning frameworks.
+
+### Interests
+
+
+- Short video generation research

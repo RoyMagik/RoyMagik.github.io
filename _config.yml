@@ -4,32 +4,32 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anyu Lin"
+title                    : "Hanmo Chen / Personal Academic Homepage"
 title_separator          : "-"
-name                     : &name "Anyu Lin"
-description              : &description "Personal academic homepage of Anyu Lin"
-url                      : https://6pard.github.io
-baseurl                  : "" 
-repository               : "6pard/6pard.github.io"
-teaser                   :  
-breadcrumbs              : false 
+name                     : &name "Hanmo Chen"
+description              : &description "Personal academic homepage of Hanmo Chen, focusing on deep learning, computer vision, and AIGC."
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : ""
+repository               : "academicpages/academicpages.github.io"
+teaser                   :
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" 
-talkmap_link             : false 
+read_more                : "disabled"
+talkmap_link             : false
 comments:
-  provider               : 
+  provider               :
   disqus:
     shortname            :
   discourse:
-    server               : 
+    server               :
   facebook:
     appid                :
-    num_posts            : 
-    colorscheme          : 
+    num_posts            :
+    colorscheme          :
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" 
+  branch                 : "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -42,9 +42,9 @@ staticman:
     date:
       type               : "date"
       options:
-        format           : "iso8601" 
+        format           : "iso8601"
 atom_feed:
-  path                   : 
+  path                   :
 
 # SEO Related
 google_site_verification :
@@ -59,31 +59,31 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  
+og_image                 :
 social:
   type                   : Person
   name                   : Anyu Lin
-  links: 
+  links:
     - "https://github.com/fakegithub"
     - "https://fakehomepage.com"
 
 # Analytics
 analytics:
-  provider               : "google-universal" 
+  provider               : "google-universal"
   google:
     tracking_id          :
 
 # Site Author
 author:
-  name             : "Anyu Lin"
-  avatar           : "bio-photo.png"
-  bio              : "Interested in multimodal AI, generative video, and robotics applications."
+  name             : "Hanmo Chen"
+  avatar           : "profile.png"
+  bio              : "Master's student at Xidian University, with research experience in deep learning, computer vision, LLM, and AIGC. Skilled in Stable Diffusion, Lora, and ControlNet. Experienced in team leadership and project management. Currently focusing on short video generation."
   location         : "China"
-  employer         : "Institute of Technology"
-  email            : "linanyudemo@fakemail.com"
-  github           : "fakegithub"
-  linkedin         : 
-  orcid            : 
+  employer         : "Xidian University"
+  email            : "1821698873@qq.com"
+  github           :
+  linkedin         :
+  orcid            :
 
 # Reading Files
 include:
@@ -124,7 +124,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "
+
+"
 incremental: false
 
 # Markdown Processing
@@ -206,11 +208,11 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed 
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai 
+timezone: Asia/Shanghai
 
 # Plugins
 plugins:

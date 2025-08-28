@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-- **2024.06** First Prize, NovaTech Robotics Innovation Challenge, Team Leader  
-- **2023.12** Second Prize, Zenith Cup Mathematical Modeling Contest, Participant  
-- **2023.08** Second Prize, Global Collegiate AI Innovation Tournament, Participant  
-- **2022.09** Third Prize, Polaris Cup Creative Robotics Competition, Team Leader  
-- **2022.07** Third Prize, Eastern Collegiate Computing Challenge, Participant  
-- **2024.03** Aurora Scholarship, Morningstar Institute of Technology, Recipient
+
+- **[MISSING: Date]** Second Prize, Jianxing College Second-class Scholarship, Recipient
+
+- **[MISSING: Date]** Second Prize, Excellent Student Scholarship, Recipient
+
+- **2023.01** Second Prize, China Robot Competition Advanced Vision Competition - 3D Recognition Project, Participant
+
+- **2022.11** First Prize, 2022 China University Big Data Challenge, Participant
+
+- **2022.05** Second Prize, 2022 University Mathematical Modeling Competition, Participant
+
+- **2020** Second Prize, Mechanical Engineering College Eagle Cup Chinese Speech Contest, Participant
