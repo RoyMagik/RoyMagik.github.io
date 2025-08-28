@@ -8,9 +8,9 @@ title                    : "Hanmo Chen / Personal Academic Homepage"
 title_separator          : "-"
 name                     : &name "Hanmo Chen"
 description              : &description "Personal academic homepage of Hanmo Chen, focusing on deep learning, computer vision, and AIGC."
-url                      : https://6pard.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      :  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : ""
-repository               : "6pard/6pard.github.io"
+repository               : ""
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
