@@ -43,7 +43,7 @@ I am a Master's student at Xidian University, specializing in short video genera
 <div class='paper-box-image'>
 <div>
 <div class="badge">[MISSING: Venue Year]</div>
-<img src='01.png' alt="3Deus：基于点云探测的复杂场景物品识别方法" width="100%">
+<img src='images/01.png' alt="3Deus：基于点云探测的复杂场景物品识别方法" width="100%">
 </div>
 </div>
 <div class='paper-box-text' markdown="1">
@@ -55,7 +55,7 @@ I am a Master's student at Xidian University, specializing in short video genera
   <div class='paper-box-image'>
 <div>
   <div class="badge">[MISSING: Venue Year]</div>
-  <img src='02.png' alt="Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration" width="100%">
+  <img src='images/02.png' alt="Multipath and Noise Resilient DOA Method for Low-Cost Mechanical Arm Calibration" width="100%">
 </div>
 </div>
   <div class='paper-box-text' markdown="1">
